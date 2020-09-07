@@ -23,7 +23,7 @@
     },
     {
         "id": 4,
-        "title": "Valilla Javascript Calculator",
+        "title": "Vanilla Javascript Calculator",
         "img": "vanilla-javascript-calculator.png",
         "git": "./vanilla-javascript-calculator",
         "detail": "A calculator made without any extra frameworks. It is made with just HTML, CSS and JS"

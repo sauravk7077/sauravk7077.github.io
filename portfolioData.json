@@ -2,17 +2,17 @@
   "contents": [
     {
         "id": 1,
-        "title": "ChatApp",
-        "img": "chatBoom.png",
-        "git": "https://github.com/sauravk7077/Simple-Chat-App",
-        "detail": "Duis egestas augue at malesuada convallis. Quisque at dictum diam, at pellentesque sem. Aenean et faucibus nisi. Fusce non consequat mauris, vitae varius sapien."
+        "title": "Pomodoro Timer",
+        "img": "pomodoroTimer.png",
+        "git": "./pomodoroTimer",
+        "detail": "The Pomodoro Timer is a time management app made using React library, HTML and CSS."
     },
     {
         "id": 2,
-        "title": "Text Editor",
-        "img": "Potato-Pad.png",
-        "git": "https://github.com/sauravk7077/potato-pad",
-        "detail": "Duis egestas augue at malesuada convallis. Quisque at dictum diam, at pellentesque sem. Aenean et faucibus nisi. Fusce non consequat mauris, vitae varius sapien."
+        "title": "To Do App",
+        "img": "reactToDo.png",
+        "git": "./react-toDoList",
+        "detail": "My first app made using React library."
     },
     {
         "id": 3,
@@ -32,14 +32,14 @@
         "id": 5,
         "title": "ChatApp",
         "img": "chatBoom.png",
-        "git": "",
+        "git": "https://github.com/sauravk7077/Simple-Chat-App",
         "detail": "Duis egestas augue at malesuada convallis. Quisque at dictum diam, at pellentesque sem. Aenean et faucibus nisi. Fusce non consequat mauris, vitae varius sapien."
     },
     {
         "id": 6,
         "title": "Text Editor",
         "img": "Potato-Pad.png",
-        "git": "",
+        "git": "https://github.com/sauravk7077/potato-pad",
         "detail": "Duis egestas augue at malesuada convallis. Quisque at dictum diam, at pellentesque sem. Aenean et faucibus nisi. Fusce non consequat mauris, vitae varius sapien."
     }
   ]

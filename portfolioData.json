@@ -18,7 +18,7 @@
         "id": 3,
         "title": "Quiz Machine",
         "img": "quiz-machine.png",
-        "git": "./quiz-machine",
+        "git": "./quiz_machine",
         "detail": "A simple quiz app made using React, CSS, JS"
     },
     {

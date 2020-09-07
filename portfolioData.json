@@ -16,17 +16,17 @@
     },
     {
         "id": 3,
-        "title": "ChatApp",
-        "img": "chatBoom.png",
-        "git": "",
-        "detail": "Duis egestas augue at malesuada convallis. Quisque at dictum diam, at pellentesque sem. Aenean et faucibus nisi. Fusce non consequat mauris, vitae varius sapien."
+        "title": "Quiz Machine",
+        "img": "quiz-machine.png",
+        "git": "./quiz-machine",
+        "detail": "A simple quiz app made using React, CSS, JS"
     },
     {
         "id": 4,
-        "title": "Text Editor",
-        "img": "Potato-Pad.png",
-        "git": "",
-        "detail": "Duis egestas augue at malesuada convallis. Quisque at dictum diam, at pellentesque sem. Aenean et faucibus nisi. Fusce non consequat mauris, vitae varius sapien."
+        "title": "Valilla Javascript Calculator",
+        "img": "vanilla-javascript-calculator.png",
+        "git": "./vanilla-javascript-calculator",
+        "detail": "A calculator made without any extra frameworks. It is made with just HTML, CSS and JS"
     },
     {
         "id": 5,
